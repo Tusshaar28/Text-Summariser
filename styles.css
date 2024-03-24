@@ -1,0 +1,30 @@
+body
+{
+  margin: 10px;
+  padding: 10px;
+  background-image: url(sum.jpg);
+  background-size: cover;
+}
+
+#cont
+{
+  background-color: rgba(0,0,0,0.5);
+  margin: 5rem 2rem 2rem 25rem;
+  align-items: center;
+  height: 25rem;
+  width: 35rem;
+  border-radius: 3rem;
+}
+
+#form1
+{
+  padding: 2rem;
+}
+.heading
+{
+  font-family: cursive;
+  margin: 2rem 2rem 2rem 20rem;
+  padding-top: 2rem;
+  font-size: 4rem;
+  align-items: center;
+}
